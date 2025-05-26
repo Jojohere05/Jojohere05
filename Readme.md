@@ -30,7 +30,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jojohere05&show_icons=true&locale=en" alt="jojohere05" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jojohere05&" alt="jojohere05" /></p>
-ika-raja-20b907286/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jhotika-raja-20b907286/" height="30" width="40" /></a>
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jhotika-raja-20b907286/" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/jhotika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/jhotika" height="30" width="40" /></a>
 </p>
 
